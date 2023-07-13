@@ -27,8 +27,8 @@ app.post("/create_preference", (req, res) => {
 			}
 		],
 		back_urls: {
-			"success": "http://127.0.0.1:5173/",
-			"failure": "http://127.0.0.1:5173/",
+			"success": "https://front-donation-klwnjry97-josema996.vercel.app/",
+			"failure": "https://front-donation-klwnjry97-josema996.vercel.app/",
 			"pending": ""
 		},
 		auto_return: "approved",
