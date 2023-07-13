@@ -27,8 +27,8 @@ app.post("/create_preference", (req, res) => {
 			}
 		],
 		back_urls: {
-			"success": "https://front-donation-klwnjry97-josema996.vercel.app/",
-			"failure": "https://front-donation-klwnjry97-josema996.vercel.app/",
+			"success": "https://front-donation.vercel.app/",
+			"failure": "https://front-donation.vercel.app/",
 			"pending": ""
 		},
 		auto_return: "approved",
